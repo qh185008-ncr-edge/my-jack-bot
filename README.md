@@ -1,5 +1,2 @@
 # my-jack-bot
-AYO
-
-
 
